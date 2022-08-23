@@ -1,0 +1,28 @@
+body{
+    background: rgb(0, 0, 0);
+    color:white;
+}
+
+.navbar{
+    background: rgb(29, 29, 29);
+}
+
+.card{
+    background: rgb(66, 66, 66);
+}
+
+#footer{
+    background: rgb(29, 29, 29);
+}
+
+#page-header {
+    height: 200px;
+    background: url('../img/aboutus-header.jpg');
+    background-position: 0 -360px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px rgb(105, 105, 105) solid;
+    padding-top: 50px;
+  }
